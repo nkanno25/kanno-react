@@ -13,3 +13,4 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/101083492/188336346-5e6822e4-36a9-46e5-9f5c-3e2795e7b948.png)
